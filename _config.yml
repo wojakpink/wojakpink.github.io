@@ -15,6 +15,12 @@ github_username:  "wojakpink"
 # Cryptocurrency Addresses
 address_eth_donate: "0x7e86AFC6769f099508786DC1BA6c4A064C73E3c8"
 
+# Text Variables
+donation_link_text: "don't click this unless you want to give me free money"
+
+# Permalink Variables
+permalink_donate: "/donate/index.html"
+
 # Build settings
 remote_theme: "wojakpink/theme.wojak.pink@main"
 plugins:
