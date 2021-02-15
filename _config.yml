@@ -13,7 +13,7 @@ twitter_username: "WojakDotPink"
 github_username:  "wojakpink"
 
 # Build settings
-remote_theme: "wojakpink/theme.wojak.pinkd@main"
+remote_theme: "wojakpink/theme.wojak.pink@main"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
