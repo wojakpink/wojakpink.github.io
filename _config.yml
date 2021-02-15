@@ -12,6 +12,9 @@ url: "https://wojak.pink" # the base hostname & protocol for your site, e.g. htt
 twitter_username: "WojakDotPink"
 github_username:  "wojakpink"
 
+# Cryptocurrency Addresses
+address_eth_donate: "0x7e86AFC6769f099508786DC1BA6c4A064C73E3c8"
+
 # Build settings
 remote_theme: "wojakpink/theme.wojak.pink@main"
 plugins:
